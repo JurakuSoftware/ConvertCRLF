@@ -19,4 +19,7 @@ Hnx8.ReadJEnc.dll（文字コード判別） 1.3.1.2
 MITライセンス
 
 ## 作成
-https://juraku-software.net/
+https://juraku-software.net/  
+  
+コンパイルしてすぐに使える状態のEXEは以下のページで公開しています。  
+https://juraku-software.net/windows-app-convertcrlf/
