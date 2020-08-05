@@ -14,3 +14,6 @@ Hnx8.ReadJEnc.dll（文字コード判別） 1.3.1.2
 
 ## ライセンス
 MITライセンス
+
+## 作成
+https://juraku-software.net/
